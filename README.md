@@ -17,8 +17,8 @@
 
 <div align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000" alt="License">
-  <img src="https://img.shields.io/github/forks/Lucas-Alves-Da-Mata/cuiabano-food?label=forks&message=MIT&color=15C3D6&labelColor=000000" alt="Forks">
-  <img src="https://img.shields.io/github/stars/Lucas-Alves-Da-Mata/cuiabano-food?label=stars&message=MIT&color=15C3D6&labelColor=000000" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Lucas-Alves-Da-Mata/perfil-decontato?label=forks&message=MIT&color=15C3D6&labelColor=000000" alt="Forks">
+  <img src="https://img.shields.io/github/stars/Lucas-Alves-Da-Mata/perfil-decontato?label=stars&message=MIT&color=15C3D6&labelColor=000000" alt="Stars">
 </div>
 
 <br>
@@ -43,10 +43,9 @@ Acessar Site perfil de contato **[Clique aqui](https://github.com/Lucas-Alves-Da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px" height="80px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="80px"
-   height="80px" />
-  <img src=".github/scrollreveal.jpg" width="200px" height="100px"/>
-</div>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="80px" height="80px"/>
+
+</div>
  
 <br>
 
