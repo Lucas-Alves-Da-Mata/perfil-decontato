@@ -70,7 +70,7 @@ Acessar Site perfil de contato **[Clique aqui](https://github.com/Lucas-Alves-Da
 
 ## 📷 Prévia do Projeto
 
-![Preview do projeto](.github/perfil-decontato.png)
+![Preview do projeto](.github/home.png)
 
 <br>
 
