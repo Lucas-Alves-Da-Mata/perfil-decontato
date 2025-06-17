@@ -124,7 +124,7 @@ Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma
 
 <p>Este projeto é de código aberto e pode ser utilizado para estudos e aprimoramento. 📜</p>
 
-Para mais detalhes sobre a licença: [clique aqui](https://lucas-alves-da-mata.github.io/perfil-decontato/)
+Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 
 <br>
 
