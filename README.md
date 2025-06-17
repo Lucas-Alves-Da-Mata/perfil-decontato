@@ -23,13 +23,8 @@
 
 <br>
 
-## 👨‍💻 Projeto Conversação Natural: Compreende e responde de maneira fluida, adaptando-se ao contexto.
-
-Aprendizado Contínuo: Recebe feedback dos usuários para aprimorar suas respostas e habilidades.
-
-Versatilidade: Utilizado em diversas áreas, como educação, programação, suporte ao cliente e muito mais.
-
-Acessibilidade: Disponível gratuitamente durante a fase de pesquisa para coletar insights valiosos dos
+## 👨‍💻 Projeto 
+ferecer aos usuários a opção de alternar entre os modos claro e escuro em seu site proporciona uma experiência personalizada e confortável, adaptando-se às preferências individuais e condições de iluminação.
 
 O **perfil de contato** 
 
